@@ -14,4 +14,4 @@ MTS-Dialog dataset, a curated collection of 1,700 short doctor-patient conversat
 * Apply Parameter-Efficient Fine-Tuning (PEFT) adapter
 
 ### Evaluation metrics
-* ROUGE, BERTScore, and BLEURT
+* ROUGE
